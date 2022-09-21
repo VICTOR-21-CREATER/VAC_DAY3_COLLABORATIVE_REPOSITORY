@@ -2,7 +2,7 @@
 
  * * NAME THE FILE WITH YOUR REG.NO STARTING WITH (RAXXXXXXXXXXXXX) - YOUR ANALYSIS NAME
 
- * *Create A Folder - Name it with your Reg.no and inside the folder-- HTML file should be present and also dont forget update the readme
+ * * Create A Folder - Name it with your Reg.no and inside the folder-- HTML file should be present and also dont forget update the readme
    
    
   => PASTE THE URL's HERE AND COMMIT CHANGES
@@ -16,7 +16,7 @@
   3) RA2111026010224
      URL : https://analytics.zoho.in/workspace/258903000000002114/view/258903000000002854
 
-  4)RA2111003011556
+  4) RA2111003011556
      URL:https://analytics.zoho.in/workspace/258993000000002034/view/258993000000002444
 
   5) RA2011050010077
